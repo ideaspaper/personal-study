@@ -216,7 +216,13 @@ There are other directives to perform conditional rendering. Conditional renderi
 To let users interact with your app, we can use the `v-on` directive to attach event listeners that invoke methods on our Vue instances.
 
 ```HTML
+<!-- index.html -->
+<!DOCTYPE html>
+
+<html lang="en">
+
 <head>
+  <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Hello Vue</title>
 </head>

@@ -1,4 +1,3 @@
-# Introduction to Vue
 Vue.js (commonly referred to as Vue; pronounced /vjuː/, like "view") is an open-source Model–view–viewmodel JavaScript framework for building user interfaces and single-page applications.
 
 [Vue.js](https://en.wikipedia.org/wiki/Vue.js)
@@ -296,6 +295,6 @@ var app = new Vue({
 # Composing with Components
 The component system is another important concept in Vue, because it’s an abstraction that allows us to build large-scale applications composed of small, self-contained, and often reusable components. If we think about it, almost any type of application interface can be abstracted into a tree of components.
 
-![images/tree-of-components.png](images/tree-of-components.png)
+![Tree of Components](images/tree-of-components.png)
 
 In Vue, a component is essentially a Vue instance with pre-defined options. Component will be discussed thoroughly later.
